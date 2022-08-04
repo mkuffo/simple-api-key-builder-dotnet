@@ -38,7 +38,7 @@ IMPORTANT: Please do not save the api key in plain text into any database.
 
 ## Reference
 
-Please refer to the full article for more information. [Link](https://medium.com/@mkuffo/how-to-generate-a-developer-api-key-with-nodejs-42d38313208a).
+Please refer to the full article for more information. [Link](https://medium.com/@mkuffo/net-core-on-a-mac-lets-build-an-api-server-that-generates-api-keys-using-c-9067e6be084d).
 
 
 
